@@ -11,7 +11,10 @@
 
 
 - 🔭 I’m currently working on **React**
-- 🌱 I’m currently learning **React**
+
+![image](https://user-images.githubusercontent.com/113638375/221062197-d72151a8-80af-493a-8a1e-23e7d01cdf20.png)
+
+- 🌱 I’m currently learning **Frontend developement at Becode**
 - 👯 I’m looking to an internship
 
 - 💬 Ask me about code
