@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **React**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to an internship
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about code
 - ⚡ Fun fact: Panting for inspiration
 
