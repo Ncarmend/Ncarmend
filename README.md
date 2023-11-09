@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Carmen NDAYA</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<h2>I'm web master and i'm training to become web developer </h2>
+<h2>I'm a React backend and front-end web developer </h2>
 
 
 
@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/113638375/221062197-d72151a8-80af-493a-8a1e-23e7d01cdf20.png)
 
 - 🌱 I’m currently learning **Frontend developement at Becode**
-- 👯 I’m looking to an internship
+- 👯 I’m looking for freelance work on permanent or fixed-term contracts.
 
 - 💬 Ask me about code
 - ⚡ Fun fact: Panting for inspiration
