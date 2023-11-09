@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Carmen NDAYA</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate front-end developer</h3>
 <h2>I'm a React front-end and backend web developer </h2>
 
 
